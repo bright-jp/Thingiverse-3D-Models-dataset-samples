@@ -1,51 +1,51 @@
 # Thingiverse 3D Models Dataset Sample
 
-<h2>A sample dataset of 2,923 records</h2>
+<h2>2,923件のレコードからなるサンプルデータセット</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.jp">
     <img src="https://github.com/luminati-io/Thingiverse-3D-Models-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Thingiverse 3D Models Dataset Sample** includes **2,923 records** and was extracted using the **Bright Data API**.
+この **Thingiverse 3D Models Dataset Sample** には **2,923件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `url` | The direct URL to the specific 3D model on Thingiverse. |
-| `id` | A unique identifier for each 3D model entry in the dataset. |
-| `domain` | The domain name from which the 3D model data is sourced. |
-| `title` | The title or name given to the 3D model by its creator. |
-| `description` | A detailed description of the 3D model, often including its purpose or inspiration. |
-| `license` | The type of Creative Commons license under which the 3D model is released. |
-| `images` | A list of URLs pointing to images of the 3D model. |
-| `creator_details` | Information about the creator of the 3D model, possibly including name and profile. |
-| `tags` | Keywords or tags associated with the 3D model for categorization. |
-| `date_posted` | The date when the 3D model was posted on the platform. |
-| `download_url` | The URL where the 3D model files can be downloaded. |
-| `num_comments` | The number of comments made on the 3D model by other users. |
-| `num_likes` | The number of likes or upvotes received by the 3D model. |
-| `num_files` | The total number of files included in the 3D model package. |
-| `print_settings` | Specific settings recommended for 3D printing the model, such as material and print speed. |
+| `url` | Thingiverse上の特定の3Dモデルへの直接URLです。 |
+| `id` | データセット内の各3Dモデルエントリの一意の識別子です。 |
+| `domain` | 3Dモデルデータの取得元となるドメイン名です。 |
+| `title` | 作成者によって3Dモデルに付けられたタイトルまたは名称です。 |
+| `description` | 3Dモデルの詳細な説明で、用途や着想が含まれることが多いです。 |
+| `license` | 3Dモデルが公開されているCreative Commonsライセンスの種類です。 |
+| `images` | 3Dモデルの画像を指すURLのリストです。 |
+| `creator_details` | 3Dモデルの作成者に関する情報で、名前やプロフィールが含まれる場合があります。 |
+| `tags` | 分類のために3Dモデルに関連付けられたキーワードまたはタグです。 |
+| `date_posted` | プラットフォーム上に3Dモデルが投稿された日付です。 |
+| `download_url` | 3DモデルファイルをダウンロードできるURLです。 |
+| `num_comments` | 他のユーザーによって3Dモデルに付けられたコメント数です。 |
+| `num_likes` | 3Dモデルが受け取った「いいね」またはアップボートの数です。 |
+| `num_files` | 3Dモデルパッケージに含まれるファイルの総数です。 |
+| `print_settings` | 材料や印刷速度など、モデルを3Dプリントするために推奨される具体的な設定です。 |
 
 
 ## Use Cases
 
 ### 1. 3D Printing Research
-Analyze popular 3D models and their attributes to identify trends in 3D printing designs and preferences among creators.
+人気の3Dモデルとその属性を分析し、3Dプリントデザインのトレンドや、作成者の好みを特定します。
 
 ### 2. Design Education
-Utilize data from creative commons 3D models for educational purposes in design courses, enhancing learning with real-world examples.
+Creative Commonsの3Dモデルのデータをデザインコースの教育目的で活用し、実例を通じて学習を強化します。
 
 ### 3. Creative Commons Licensing Analysis
-Examine the distribution and types of licenses used in 3D models to understand licensing preferences and implications for creators.
+3Dモデルで使用されているライセンスの分布や種類を調査し、作成者のライセンス嗜好やその影響を理解します。
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+データセットは複数の形式で利用可能です:
+- **CSV**（このサンプルに含まれています）
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -65,8 +65,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+データセットはさまざまなスケジュールで更新できます:
+- **Once**（一度きりの配信）
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -75,14 +75,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+特定の要件に基づいて追加のデータポイントを付与し、データセットを強化できます。カスタムのエンリッチメントオプションについてはお問い合わせください。
 
-**[Get the full Thingiverse 3D Models dataset](https://brightdata.com/products/datasets/artstation)**
+**[Get the full Thingiverse 3D Models dataset](https://brightdata.jp/products/datasets/artstation)**
 
 ---
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiativeは、環境および社会的課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)** および **[ready-to-use datasets](https://brightdata.jp/products/datasets)** への無料アクセスを提供しています。 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+無料アクセスの申請は [brightinitiative.com](https://brightinitiative.com) から行えます。
