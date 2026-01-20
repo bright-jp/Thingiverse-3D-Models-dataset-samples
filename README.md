@@ -1,4 +1,4 @@
-# Thingiverse 3D Models Dataset Sample
+# Thingiverse 3D Models データセットサンプル
 
 <h2>2,923件のレコードからなるサンプルデータセット</h2>
 
