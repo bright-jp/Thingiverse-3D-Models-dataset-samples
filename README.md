@@ -3,7 +3,7 @@
 <h2>2,923件のレコードからなるサンプルデータセット</h2>
 
 <a href="https://brightdata.jp">
-    <img src="https://github.com/luminati-io/Thingiverse-3D-Models-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-jp/Thingiverse-3D-Models-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 この **Thingiverse 3D Models Dataset Sample** には **2,923件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
